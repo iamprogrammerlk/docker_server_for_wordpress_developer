@@ -1,8 +1,24 @@
 <a name="readme-top"></a>
 
-# TITLE
+# Docker Server for WordPress Developer
 
-> DESCRIPTION
+> Local development (Docker) server for WordPress plugin/theme developers.
+
+<br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+# Release Versions
+
+View [CHANGELOG.md](/CHANGELOG.md) for information and old releases.
+
+- ## Latest Version is 8_0_24
+  - Supported Tag: 8_0_24
+  - Operating System: Debian (bullseye-slim)
+  - Server Version: Apache 2.4.54
+  - PHP Version: 8.0.24
+  - WordPress Version: 6.0.0
 
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
