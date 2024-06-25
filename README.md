@@ -13,7 +13,7 @@
 
 View [CHANGELOG.md](/CHANGELOG.md) for information and old releases.
 
-- ## Latest Version is 8_0_24
+- ## Latest Version is [8_0_24](/releases/tag/8.0.24)
   - Supported Tag: 8_0_24
   - Operating System: Debian (bullseye-slim)
   - Server Version: Apache 2.4.54
